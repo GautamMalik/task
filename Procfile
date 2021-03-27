@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app:app
+web: streamlit run app:app
